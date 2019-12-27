@@ -3,7 +3,7 @@ Android DragAndDropAcrossApps-new Sample
 ===================================
 
 This sample contains three separate Android applications: DragSourceOne,DragSourceTwo and
-DropTarget. DragSourceOne and DragSourceTwo contains images and text that can be dropped into the DropTarget
+DropTarget. DragSourceOne and DragSourceTwo contains images and text that can be dropped into the DropTarget2
 app. Images are shared to the target app through a URI for which the receiving app
 must request permission first, before it can be used.
 
