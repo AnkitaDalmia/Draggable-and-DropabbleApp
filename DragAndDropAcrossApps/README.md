@@ -2,9 +2,9 @@
 Android DragAndDropAcrossApps-new Sample
 ===================================
 
-This sample contains two separate Android applications: DragSource and
-DropTarget. DragSource contains images and text that can be dropped into the DropTarget
-app. Images are shared between the two apps through a URI for which the receiving app
+This sample contains three separate Android applications: DragSourceOne,DragSourceTwo
+DropTarget. DragSourceOne and DragSourceTwo contains images and text that can be dropped into the DropTarget
+app. Images are shared to the target app through a URI for which the receiving app
 must request permission first, before it can be used.
 
 It also demonstrates the use of the DragStartHelper from the v13 support library to easily
@@ -53,11 +53,7 @@ Pre-requisites
 - Android SDK 28
 - Android Build Tools v28.0.3
 - Android Support Repository
-
-Screenshots
--------------
-
-<img src="screenshots/phone.png" height="400" alt="Screenshot"/> <img src="screenshots/tablet.png" height="400" alt="Screenshot"/> 
+ 
 
 Getting Started
 ---------------
@@ -65,10 +61,7 @@ Getting Started
 This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
-Support
--------
 
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
 
 If you've found an error in this sample, please file an issue:
 https://github.com/android/user-interface
