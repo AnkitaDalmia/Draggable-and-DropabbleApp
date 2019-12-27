@@ -1,0 +1,4 @@
+#Sun Dec 15 19:45:09 IST 2019
+base.0=C\:\\Users\\KIIT\\Desktop\\New folder\\edited\\sumo - Copy (2)\\DragAndDropAcrossApps\\DropTarget2\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex

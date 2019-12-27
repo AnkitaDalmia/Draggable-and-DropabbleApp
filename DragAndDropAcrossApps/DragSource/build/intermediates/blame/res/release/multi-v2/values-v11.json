@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\KIIT\\Desktop\\New folder\\edited\\sumo - Copy (2)\\DragAndDropAcrossApps\\DragSource\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KIIT\\Desktop\\New folder\\edited\\sumo - Copy (2)\\DragAndDropAcrossApps\\DragSource\\src\\main\\res\\values-v11\\template-styles.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "650",
+                        "endColumns": "79",
+                        "endOffsets": "725"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "78",
+                        "endOffsets": "129"
+                    }
+                }
+            ]
+        }
+    ]
+}

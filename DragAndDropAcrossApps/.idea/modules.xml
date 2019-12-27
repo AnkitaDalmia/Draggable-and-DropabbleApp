@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DragAndDropAcrossApps.iml" filepath="$PROJECT_DIR$/DragAndDropAcrossApps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DragSource/DragSource.iml" filepath="$PROJECT_DIR$/DragSource/DragSource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DragSourceTwo/DragSourceTwo.iml" filepath="$PROJECT_DIR$/DragSourceTwo/DragSourceTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DropTarget2/DropTarget2.iml" filepath="$PROJECT_DIR$/DropTarget2/DropTarget2.iml" />
+    </modules>
+  </component>
+</project>
